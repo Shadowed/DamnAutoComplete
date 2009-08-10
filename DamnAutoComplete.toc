@@ -1,0 +1,8 @@
+## Interface: 30200
+## Title: Damn Auto Complete
+## Notes: Lets you manage the auto complete window or enable the classic auto complete
+## Author: Shadowed
+## SavedVariables: DamnAutoCompleteDB
+
+localization.enUS.lua
+DamnAutoComplete.lua
